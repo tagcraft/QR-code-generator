@@ -1,0 +1,40 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Executable
+qrcode
+qrcode.exe
+
+# Build directory
+build/
+
+# Output files
+qrcode_output.txt
+*.qr
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Compiler-specific
+*.gch
+*.pch
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
